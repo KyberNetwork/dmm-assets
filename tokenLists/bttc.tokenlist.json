@@ -172,8 +172,8 @@
             "symbol": "USDD_t",
             "name": "Decentralized USD_TRON",
             "decimals": 18,
-            "logoURI": "https://i.imgur.com/yCFVBVH.png",
-        },
+            "logoURI": "https://i.imgur.com/yCFVBVH.png"
+        }
     ],
     "version": {
         "major": 0,
