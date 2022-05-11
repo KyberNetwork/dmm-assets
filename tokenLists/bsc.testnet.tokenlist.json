@@ -11,28 +11,32 @@
             "address": "0x51E8D106C646cA58Caf32A47812e95887C071a62",
             "symbol": "KNC",
             "name": "Kyber Network Crystal",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202/logo.png"
         },
         {
             "chainId": 97,
             "address": "0xb448B701807E644f141a4E4a269aD2F567526505",
             "symbol": "USDC",
             "name": "USDC",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png"
         },
         {
             "chainId": 97,
             "address": "0x3d8f2Ada8e97e4eF19e4ccBf6ec1Ca52900406aA",
             "symbol": "USDT",
             "name": "USDT",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/logo/usdtlogo.png"
         },
         {
             "chainId": 97,
             "address": "0xBb843a2296F9AA49070EB2Dcd482f23548238f65",
             "symbol": "DAI",
             "name": "DAI",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/9956/large/dai-multi-collateral-mcd.png"
         },
         {
             "chainId": 97,

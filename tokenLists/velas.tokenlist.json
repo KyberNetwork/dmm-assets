@@ -36,7 +36,7 @@
             "symbol": "USDT",
             "name": "Multichain USDT",
             "decimals": 6,
-            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+            "logoURI": "https://coin.top/production/logo/usdtlogo.png"
         },
         {
             "chainId": 106,
