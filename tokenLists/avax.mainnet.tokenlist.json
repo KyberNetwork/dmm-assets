@@ -19,28 +19,32 @@
             "address": "0x938fe3788222a74924e062120e7bfac829c719fb",
             "symbol": "APEIN",
             "name": "Ape In",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI":"https://assets.coingecko.com/coins/images/18262/small/apein.PNG"
         },
         {
             "chainId": 43114,
             "address": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
             "symbol": "DYP",
             "name": "DeFiYieldProtocol",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI":"https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17/logo.png"
         },
         {
             "chainId": 43114,
             "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
             "symbol": "XAVA",
             "name": "Avalaunch",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI":"https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4/logo.png"
         },
         {
             "chainId": 43114,
             "address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
             "symbol": "MIM",
             "name": "Magic Internet Money",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI":"https://assets.coingecko.com/coins/images/16786/small/mimlogopng.png?1624979612"
         },
         {
             "chainId": 43114,
