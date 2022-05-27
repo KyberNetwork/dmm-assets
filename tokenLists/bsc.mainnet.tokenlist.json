@@ -83,8 +83,7 @@
             "address": "0xD6Cce248263ea1e2b8cB765178C944Fc16Ed0727",
             "symbol": "CTR",
             "name": "Creator Chain",
-            "decimals": 18,
-            
+            "decimals": 18
         },
         {
             "chainId": 56,
