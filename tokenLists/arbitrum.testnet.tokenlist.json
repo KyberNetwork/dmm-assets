@@ -43,7 +43,8 @@
             "address": "0x7596961744096D12eFa3CfA58d1D30EDd82BD396",
             "symbol": "KNC",
             "name": "KNC",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202/logo.png"
         }
     ],
     "version": {

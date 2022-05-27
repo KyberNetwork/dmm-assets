@@ -51,35 +51,40 @@
             "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
             "symbol": "WBNB",
             "name": "Wrapped BNB",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI":"https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
         },
         {
             "chainId": 56,
             "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
             "symbol": "BUSD",
             "name": "BUSD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI":"https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
         },
         {
             "chainId": 56,
             "address": "0x633237C6FA30FAe46Cc5bB22014DA30e50a718cC",
             "symbol": "FIWA",
             "name": "FIWA",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI":"https://assets.coingecko.com/coins/images/18208/small/defi_warrior.PNG?1630986310"
         },
         {
             "chainId": 56,
             "address": "0xE8176d414560cFE1Bf82Fd73B986823B89E4F545",
             "symbol": "HERO",
             "name": "HERO",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI":"https://assets.coingecko.com/coins/images/17700/small/stephero.PNG"
         },
         {
             "chainId": 56,
             "address": "0xD6Cce248263ea1e2b8cB765178C944Fc16Ed0727",
             "symbol": "CTR",
             "name": "Creator Chain",
-            "decimals": 18
+            "decimals": 18,
+            
         },
         {
             "chainId": 56,
