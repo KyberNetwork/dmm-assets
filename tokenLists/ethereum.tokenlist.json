@@ -174,11 +174,19 @@
         },
         {
             "chainId": 1,
+            "address": "0x8dB253a1943DdDf1AF9bcF8706ac9A0Ce939d922",
+            "symbol": "UNB",
+            "name": "Unbound",
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/7846.png"
+        },
+        {
+            "chainId": 1,
             "address": "0x0C0F2b41F758d66bB8e694693B0f9e6FaE726499",
             "symbol": "UND",
             "name": "Unbound Dollar",
             "decimals": 18,
-            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7848.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/7848.png"
         },
         {
             "chainId": 1,
