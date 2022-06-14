@@ -140,7 +140,7 @@
             "symbol": "KNC_e",
             "name": "Kyber Network Crystal v2 - Ethereum",
             "decimals": 18,
-            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9444.png"
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/dmm-interface/main/src/assets/images/KNC.svg"
         },
         {
             "chainId": 199,
@@ -148,7 +148,7 @@
             "symbol": "KNC_b",
             "name": "Kyber Network Crystal v2 - BSC",
             "decimals": 18,
-            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9444.png"
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/dmm-interface/main/src/assets/images/KNC.svg"
         },
         {
             "chainId": 199,
