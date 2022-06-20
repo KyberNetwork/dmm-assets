@@ -3,7 +3,8 @@
     "keywords": [
         "kyberswap"
     ],
-    "timestamp": "2020-12-12T00:00:00+00:00",
+    "timestamp": "2022-06-20T00:00:00+00:00",
+    "logoURI": "ipfs://QmdMQckJ2aFgUpsqR99pekn7Z5b3cyKe4Km11RvqfV7XLk",
     "tokens": [
         {
             "chainId": 1313161554,
@@ -352,8 +353,8 @@
         }
     ],
     "version": {
-        "major": 0,
+        "major": 1,
         "minor": 0,
-        "patch": 1
+        "patch": 0
     }
 }
