@@ -5,7 +5,7 @@
         "dmmexchange"
     ],
     "timestamp": "2022-06-20T00:00:00+00:00",
-    "logoURI": "ipfs://QmdMQckJ2aFgUpsqR99pekn7Z5b3cyKe4Km11RvqfV7XLk",
+    "logoURI": "https://kyberswap.com/favicon.png",
     "tokens": [
         {
             "name": "Aave",
@@ -806,6 +806,6 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 0
+        "patch": 1
     }
 }
