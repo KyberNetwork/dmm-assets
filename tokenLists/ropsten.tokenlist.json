@@ -21,7 +21,7 @@
             "symbol": "KNCL",
             "name": "Kyber Network Crystal Legacy",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/dmm-interface/main/src/assets/images/KNC.svg"
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/KNCL.png"
         },
         {
             "chainId": 3,
