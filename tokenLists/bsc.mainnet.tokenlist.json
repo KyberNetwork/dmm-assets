@@ -197,12 +197,12 @@
             "symbol": "ATH",
             "name": "AETHR",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/ath.jpg"
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/ath.png"
         }
     ],
     "version": {
         "major": 1,
         "minor": 1,
-        "patch": 2
+        "patch": 3
     }
   }
