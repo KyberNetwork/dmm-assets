@@ -190,11 +190,19 @@
             "name": "FootballBattle",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/fbl.png"
+        },
+        {
+            "chainId": 56,
+            "address": "0x261C94f2d3CcCAE76f86F6C8F2C93785DD6cE022",
+            "symbol": "ATH",
+            "name": "AETHR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/ath.jpg"
         }
     ],
     "version": {
         "major": 1,
         "minor": 1,
-        "patch": 1
+        "patch": 2
     }
   }
