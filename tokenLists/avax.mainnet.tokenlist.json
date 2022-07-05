@@ -205,7 +205,7 @@
             "decimals": 6,
             "name": "TetherToken",
             "symbol": "USDt",
-            "logoURI": "https://i.imgur.com/SuzAOfR.png"
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDT/logo.png"
         },
         {
             "chainId": 43114,
