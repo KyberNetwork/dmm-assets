@@ -237,6 +237,14 @@
             "name": "Staked MATIC (PoS)",
             "decimals": 18,
             "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/18688.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x60138EFCeB1F7D8e10C8Cb89bb61BbDbEeBB4Ffc",
+            "symbol": "RICE",
+            "name": "Rice Wallet",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/RICE.png"
         }
     ],
     "version": {
