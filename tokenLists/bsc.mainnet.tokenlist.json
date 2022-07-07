@@ -198,6 +198,14 @@
             "name": "AETHR",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/ath.png"
+        },
+        {
+            "chainId": 56,
+            "address": "0xCf909EF9A61dC5b05D46B5490A9f00D51c40Bb28",
+            "symbol": "RICE",
+            "name": "Rice Wallet",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/RICE.png"
         }
     ],
     "version": {

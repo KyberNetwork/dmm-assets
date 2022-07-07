@@ -268,6 +268,14 @@
             "name": "stETH (Lido)",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/13442/large/steth_logo.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xA64c3a85ddc4cD351Eeb7aeceBc6a44A64A76392",
+            "symbol": "RICE",
+            "name": "Rice Wallet",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/RICE.png"
         }
     ],
     "version": {
