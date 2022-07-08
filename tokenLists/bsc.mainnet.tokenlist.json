@@ -214,6 +214,14 @@
             "name": "BHO Network",
             "decimals": 18,
             "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12280.png"
+        },
+        {
+            "chainId": 56,
+            "address": "0x92dA433dA84d58DFe2aade1943349e491Cbd6820",
+            "symbol": "RDR",
+            "name": "Rise of Defenders",
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16051.png"
         }
     ],
     "version": {
