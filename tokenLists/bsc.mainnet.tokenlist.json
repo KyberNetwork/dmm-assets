@@ -206,6 +206,14 @@
             "name": "Rice Wallet",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/RICE.png"
+        },
+        {
+            "chainId": 56,
+            "address": "0x8717e80EfF08F53A45b4A925009957E14860A8a8",
+            "symbol": "BHO",
+            "name": "BHO Network",
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12280.png"
         }
     ],
     "version": {
