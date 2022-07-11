@@ -262,6 +262,14 @@
             "name": "Trustkey Wallet",
             "decimals": 18,
             "logoURI": "https://blog.trustkeys.network/wp-content/uploads/2019/08/cropped-AppIcon_OK_500.png"
+        },
+        {
+            "chainId": 56,
+            "address": "0xDbCcd9131405DD1fE7320090Af337952B9845DFA",
+            "symbol": "BOT",
+            "name": "Starbots Token (Wormhole)",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/BOT.png"
         }
     ],
     "version": {
