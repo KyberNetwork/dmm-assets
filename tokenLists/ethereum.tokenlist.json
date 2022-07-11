@@ -283,7 +283,7 @@
             "symbol": "SLP",
             "name": "Smooth Love Potion",
             "decimals": 0,
-            "logoURI": "https://assets.coingecko.com/coins/images/10366/small/SLP.png"
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/slp.svg"
         }
     ],
     "version": {
