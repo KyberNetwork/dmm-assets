@@ -222,6 +222,38 @@
             "name": "Rise of Defenders",
             "decimals": 18,
             "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16051.png"
+        },
+        {
+            "chainId": 56,
+            "address": "0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B",
+            "symbol": "TRX",
+            "name": "TRON",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/trx.png"
+        },
+        {
+            "chainId": 56,
+            "address": "0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0",
+            "symbol": "AXS",
+            "name": "Axie Infinity Shard",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/axs.png"
+        },
+        {
+            "chainId": 56,
+            "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+            "symbol": "DOT",
+            "name": "Polkadot Token",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/dot.png"
+        },
+        {
+            "chainId": 56,
+            "address": "0x2222227E22102Fe3322098e4CBfE18cFebD57c95",
+            "symbol": "TLM",
+            "name": "Alien Worlds Trilium",
+            "decimals": 4,
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/tlm.png"
         }
     ],
     "version": {
