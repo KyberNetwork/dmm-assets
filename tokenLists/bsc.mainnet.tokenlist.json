@@ -254,6 +254,14 @@
             "name": "Alien Worlds Trilium",
             "decimals": 4,
             "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/tlm.png"
+        },
+        {
+            "chainId": 56,
+            "address": "0xeE89Bd9aF5e72B19B48cac3E51acDe3A09A3AdE3",
+            "symbol": "TRUSTK",
+            "name": "Trustkey Wallet",
+            "decimals": 18,
+            "logoURI": "https://blog.trustkeys.network/wp-content/uploads/2019/08/cropped-AppIcon_OK_500.png"
         }
     ],
     "version": {
