@@ -269,7 +269,7 @@
             "symbol": "BOT",
             "name": "Starbots Token (Wormhole)",
             "decimals": 8,
-            "logoURI": "https://bscscan.com/token/images/starbots_32.png"
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/BOT.png"
         }
     ],
     "version": {
