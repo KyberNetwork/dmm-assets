@@ -294,6 +294,30 @@
             "name": "miMATIC",
             "symbol": "MAI",
             "logoURI": "https://assets.spookyswap.finance/tokens/MAI.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b",
+            "decimals": 18,
+            "name": "Wrapped MEMO",
+            "symbol": "wMEMO",
+            "logoURI": "https://snowtrace.io/token/images/wondelandmemo_32.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x237917E8a998b37759c8EE2fAa529D60c66c2927",
+            "decimals": 18,
+            "name": "Sifu",
+            "symbol": "sifu",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19205.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x63682bDC5f875e9bF69E201550658492C9763F89",
+            "decimals": 18,
+            "name": "Betswap.gg",
+            "symbol": "BSGG",
+            "logoURI": "https://snowtrace.io/token/images/betswapgg_32.png"
         }
     ],
     "version": {
