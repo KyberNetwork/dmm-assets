@@ -390,6 +390,14 @@
             "symbol": "DOLA",
             "decimals": 18,
             "logoURI": "https://ethereum-optimism.github.io/logos/DOLA.png"
+        },
+        {
+            "chainId": 10,
+            "address": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+            "name": "Velodrome",
+            "symbol": "VELO",
+            "decimals": 18,
+            "logoURI": "https://optimistic.etherscan.io/token/images/velodrome_32.png"
         }
     ],
     "version": {
