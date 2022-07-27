@@ -4,7 +4,7 @@
         "kyberswap",
         "dmmexchange"
     ],
-    "timestamp": "2022-06-20T00:00:00+00:00",
+    "timestamp": "2022-07-27T14:30:00+07:00",
     "logoURI": "https://kyberswap.com/favicon.png",
     "tokens": [
         {
@@ -102,6 +102,22 @@
             "name": "ATOM",
             "decimals": 6,
             "logoURI": "https://assets.coingecko.com/coins/images/1481/small/cosmos_hub.png"
+        },
+        {
+            "chainId": 25,
+            "address": "0xCbDE0E17d14F49e10a10302a32d17AE88a7Ecb8B",
+            "symbol": "CRYSTL",
+            "name": "Crystal Token",
+            "decimals": 18,
+            "logoURI": "https://www.crystl.finance/images/landing/shareholder.svg"
+        },
+        {
+            "chainId": 25,
+            "address": "0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5",
+            "symbol": "DARK",
+            "name": "DarkCrypto",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/DARK.svg"
         }
     ],
     "version": {

@@ -4,7 +4,7 @@
         "kyberswap",
         "dmmexchange"
     ],
-    "timestamp": "2022-06-20T00:00:00+00:00",
+    "timestamp": "2022-07-27T14:30:00+07:00",
     "logoURI": "https://kyberswap.com/favicon.png",
     "tokens": [
         {
@@ -245,6 +245,14 @@
             "name": "Rice Wallet",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/RICE.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x76bF0C28e604CC3fE9967c83b3C3F31c213cfE64",
+            "symbol": "CRYSTL",
+            "name": "Crystal Token",
+            "decimals": 18,
+            "logoURI": "https://www.crystl.finance/images/landing/shareholder.svg"
         }
     ],
     "version": {
