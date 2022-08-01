@@ -318,6 +318,14 @@
             "name": "Betswap.gg",
             "symbol": "BSGG",
             "logoURI": "https://snowtrace.io/token/images/betswapgg_32.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e",
+            "decimals": 18,
+            "name": "MAI",
+            "symbol": "MIMATIC",
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/MAI.svg"
         }
     ],
     "version": {

@@ -801,6 +801,14 @@
             "chainId": 250,
             "decimals": 18,
             "logoURI": "https://ftmscan.com/token/images/morpheusfinftm_32.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
+            "decimals": 18,
+            "name": "MAI",
+            "symbol": "MIMATIC",
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/MAI.svg"
         }
     ],
     "version": {
