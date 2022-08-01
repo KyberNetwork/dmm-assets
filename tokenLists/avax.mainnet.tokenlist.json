@@ -289,14 +289,6 @@
         },
         {
             "chainId": 43114,
-            "address": "0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e",
-            "decimals": 18,
-            "name": "miMATIC",
-            "symbol": "MAI",
-            "logoURI": "https://assets.spookyswap.finance/tokens/MAI.png"
-        },
-        {
-            "chainId": 43114,
             "address": "0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b",
             "decimals": 18,
             "name": "Wrapped MEMO",
