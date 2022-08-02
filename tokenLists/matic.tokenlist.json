@@ -253,6 +253,14 @@
             "name": "Crystal Token",
             "decimals": 18,
             "logoURI": "https://www.crystl.finance/images/landing/shareholder.svg"
+        },
+        {
+            "chainId": 137,
+            "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+            "decimals": 18,
+            "name": "MAI",
+            "symbol": "miMatic",
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/MAI.svg"
         }
     ],
     "version": {

@@ -706,15 +706,6 @@
             "bridgeId": ""
         },
         {
-            "name": "miMATIC",
-            "symbol": "MAI",
-            "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
-            "chainId": 250,
-            "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/MAI.png",
-            "bridgeId": ""
-        },
-        {
             "name": "Hector",
             "symbol": "HEC",
             "address": "0x5C4FDfc5233f935f20D2aDbA572F770c2E377Ab0",
@@ -801,6 +792,14 @@
             "chainId": 250,
             "decimals": 18,
             "logoURI": "https://ftmscan.com/token/images/morpheusfinftm_32.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
+            "decimals": 18,
+            "name": "MAI",
+            "symbol": "miMatic",
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/MAI.svg"
         }
     ],
     "version": {

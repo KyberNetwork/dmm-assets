@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 43 43" style="enable-background:new 0 0 43 43;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}
+</style>
+<radialGradient id="SVGID_1_" cx="-917.6863" cy="598.7843" r="1" gradientTransform="matrix(1.561425e-15 25.5 25.5 -1.561425e-15 -15247.5 23422.5)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#E0908F"/>
+	<stop  offset="1" style="stop-color:#FB4A4A"/>
+</radialGradient>
+<circle class="st0" cx="21.5" cy="21.5" r="21.5"/>
+<g>
+	
+		<image style="overflow:visible;opacity:0.2;" width="30" height="24" xlink:href="FA37BB3BB183D31C.png"  transform="matrix(1 0 0 1 7 12)">
+	</image>
+	<g>
+		<g>
+			<path class="st1" d="M30,13h-2.1l-6.2,13l-6.2-13h-2.1v17.2h2.3V18.8l5.4,11.4h1.1l5.3-11.4v11.4H30V13z"/>
+			<rect x="10" y="17.9" class="st1" width="23.4" height="2.5"/>
+			<rect x="10" y="23.5" class="st1" width="23.4" height="2.5"/>
+		</g>
+	</g>
+</g>
+</svg>
