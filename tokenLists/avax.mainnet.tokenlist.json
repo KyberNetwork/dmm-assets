@@ -318,6 +318,14 @@
             "name": "MAI",
             "symbol": "miMatic",
             "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/MAI.svg"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xE7dDa817b449A05bCB55DaeF2B2E8c095aD80993",
+            "decimals": 18,
+            "name": "Teragon Managed Vault - Bastion Trading",
+            "symbol": "TMV-BT",
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/TMV-BT.svg"
         }
     ],
     "version": {
