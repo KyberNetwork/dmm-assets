@@ -261,6 +261,14 @@
             "name": "MAI",
             "symbol": "miMatic",
             "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/MAI.svg"
+        },
+        {
+            "chainId": 137,
+            "address": "0xc3c7d422809852031b44ab29eec9f1eff2a58756",
+            "decimals": 18,
+            "name": "Lido DAO Token (PoS)",
+            "symbol": "LDO",
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/LDO.png"
         }
     ],
     "version": {
