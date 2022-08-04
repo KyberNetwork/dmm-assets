@@ -404,7 +404,7 @@
             "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
             "decimals": 18,
             "name": "MAI",
-            "symbol": "miMatic",
+            "symbol": "MAI",
             "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/MAI.svg"
         }
     ],
