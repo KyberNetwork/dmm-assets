@@ -1,5 +1,5 @@
 {
-    "name": "KyberSwap Token List",
+    "name": "KyberSwap Token List Ethereum",
     "keywords": [
         "kyberswap",
         "dmmexchange"
@@ -10,6 +10,7 @@
         {
             "chainId": 1,
             "address": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
+            "_scan": "https://etherscan.io/token/0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
             "symbol": "KNC",
             "name": "Kyber Network Crystal",
             "decimals": 18,
@@ -18,6 +19,7 @@
         {
             "chainId": 1,
             "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
+            "_scan": "https://etherscan.io/token/0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
             "symbol": "KNCL",
             "name": "Kyber Network Crystal Legacy",
             "decimals": 18,
@@ -26,6 +28,7 @@
         {
             "chainId": 1,
             "address": "0x1F3F677Ecc58F6A1F9e2CF410dF4776a8546b5DE",
+            "_scan": "https://etherscan.io/token/0x1F3F677Ecc58F6A1F9e2CF410dF4776a8546b5DE",
             "symbol": "VNDC",
             "name": "VNDC",
             "decimals": 18
@@ -33,6 +36,7 @@
         {
             "chainId": 1,
             "address": "0x27702a26126e0B3702af63Ee09aC4d1A084EF628",
+            "_scan": "https://etherscan.io/token/0x27702a26126e0B3702af63Ee09aC4d1A084EF628",
             "symbol": "ALEPH",
             "name": "Aleph.im",
             "decimals": 18
@@ -40,6 +44,7 @@
         {
             "chainId": 1,
             "address": "0x196f4727526eA7FB1e17b2071B3d8eAA38486988",
+            "_scan": "https://etherscan.io/token/0x196f4727526eA7FB1e17b2071B3d8eAA38486988",
             "symbol": "RSV",
             "name": "Reserve",
             "decimals": 18
@@ -47,6 +52,7 @@
         {
             "chainId": 1,
             "address": "0x0ccD5DD52Dee42B171a623478e5261C1eaaE092A",
+            "_scan": "https://etherscan.io/token/0x0ccD5DD52Dee42B171a623478e5261C1eaaE092A",
             "symbol": "DFM",
             "name": "DFM",
             "decimals": 18,
@@ -55,6 +61,7 @@
         {
             "chainId": 1,
             "address": "0x6e36556B3ee5Aa28Def2a8EC3DAe30eC2B208739",
+            "_scan": "https://etherscan.io/token/0x6e36556B3ee5Aa28Def2a8EC3DAe30eC2B208739",
             "symbol": "BUILD",
             "name": "BUILD Finance",
             "decimals": 18,
@@ -63,6 +70,7 @@
         {
             "chainId": 1,
             "address": "0xdB25f211AB05b1c97D595516F45794528a807ad8",
+            "_scan": "https://etherscan.io/token/0xdB25f211AB05b1c97D595516F45794528a807ad8",
             "symbol": "EURS",
             "name": "STASIS EURS Token",
             "decimals": 2
@@ -70,6 +78,7 @@
         {
             "chainId": 1,
             "address": "0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA",
+            "_scan": "https://etherscan.io/token/0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA",
             "symbol": "ORBS",
             "name": "ORBS",
             "decimals": 18
@@ -77,6 +86,7 @@
         {
             "chainId": 1,
             "address": "0xbE9375C6a420D2eEB258962efB95551A5b722803",
+            "_scan": "https://etherscan.io/token/0xbE9375C6a420D2eEB258962efB95551A5b722803",
             "symbol": "STMX",
             "name": "StormX",
             "decimals": 18
@@ -84,6 +94,7 @@
         {
             "chainId": 1,
             "address": "0xEBd9D99A3982d547C5Bb4DB7E3b1F9F14b67Eb83",
+            "_scan": "https://etherscan.io/token/0xEBd9D99A3982d547C5Bb4DB7E3b1F9F14b67Eb83",
             "symbol": "ID",
             "name": "Everest ID",
             "decimals": 18
@@ -91,6 +102,7 @@
         {
             "chainId": 1,
             "address": "0xC57d533c50bC22247d49a368880fb49a1caA39F7",
+            "_scan": "https://etherscan.io/token/0xC57d533c50bC22247d49a368880fb49a1caA39F7",
             "symbol": "PTF",
             "name": "PowerTrade Fuel Token",
             "decimals": 18
@@ -98,6 +110,7 @@
         {
             "chainId": 1,
             "address": "0x0bfEc35a1A3550Deed3F6fC76Dde7FC412729a91",
+            "_scan": "https://etherscan.io/token/0x0bfEc35a1A3550Deed3F6fC76Dde7FC412729a91",
             "symbol": "XKNCA",
             "name": "xKNCa",
             "decimals": 18,
@@ -106,6 +119,7 @@
         {
             "chainId": 1,
             "address": "0x6710c63432A2De02954fc0f851db07146a6c0312",
+            "_scan": "https://etherscan.io/token/0x6710c63432A2De02954fc0f851db07146a6c0312",
             "symbol": "MFG",
             "name": "Smart MFG",
             "decimals": 18,
@@ -114,6 +128,7 @@
         {
             "chainId": 1,
             "address": "0x70e8dE73cE538DA2bEEd35d14187F6959a8ecA96",
+            "_scan": "https://etherscan.io/token/0x70e8dE73cE538DA2bEEd35d14187F6959a8ecA96",
             "symbol": "XSGD",
             "name": "XSGD",
             "decimals": 6,
@@ -122,6 +137,7 @@
         {
             "chainId": 1,
             "address": "0xBCD515D6C5de70D3A31D999A7FA6a299657De294",
+            "_scan": "https://etherscan.io/token/0xBCD515D6C5de70D3A31D999A7FA6a299657De294",
             "symbol": "RICE",
             "name": "RICE",
             "decimals": 18,
@@ -130,6 +146,7 @@
         {
             "chainId": 1,
             "address": "0x0f17BC9a994b87b5225cFb6a2Cd4D667ADb4F20B",
+            "_scan": "https://etherscan.io/token/0x0f17BC9a994b87b5225cFb6a2Cd4D667ADb4F20B",
             "symbol": "jEUR",
             "name": "Jarvis Synthetic Euro",
             "decimals": 18,
@@ -138,6 +155,7 @@
         {
             "chainId": 1,
             "address": "0x7409856CAE628f5d578B285B45669b36E7005283",
+            "_scan": "https://etherscan.io/token/0x7409856CAE628f5d578B285B45669b36E7005283",
             "symbol": "jGBP",
             "name": "Jarvis Synthetic British Pound",
             "decimals": 18,
@@ -146,6 +164,7 @@
         {
             "chainId": 1,
             "address": "0x53dfEa0A8CC2A2A2e425E1C174Bc162999723ea0",
+            "_scan": "https://etherscan.io/token/0x53dfEa0A8CC2A2A2e425E1C174Bc162999723ea0",
             "symbol": "jCHF",
             "name": "Jarvis Synthetic Swiss Franc",
             "decimals": 18,
@@ -154,6 +173,7 @@
         {
             "chainId": 1,
             "address": "0x7F3EDcdD180Dbe4819Bd98FeE8929b5cEdB3AdEB",
+            "_scan": "https://etherscan.io/token/0x7F3EDcdD180Dbe4819Bd98FeE8929b5cEdB3AdEB",
             "symbol": "XTK",
             "name": "xToken",
             "decimals": 18
@@ -161,6 +181,7 @@
         {
             "chainId": 1,
             "address": "0xd7DCd9B99787C619b4D57979521258D1A7267ad7",
+            "_scan": "https://etherscan.io/token/0xd7DCd9B99787C619b4D57979521258D1A7267ad7",
             "symbol": "EVRY",
             "name": "Evrynet Token",
             "decimals": 18,
@@ -169,6 +190,7 @@
         {
             "chainId": 1,
             "address": "0x656C00e1BcD96f256F224AD9112FF426Ef053733",
+            "_scan": "https://etherscan.io/token/0x656C00e1BcD96f256F224AD9112FF426Ef053733",
             "symbol": "EFI",
             "name": "Efinity Token",
             "decimals": 18
@@ -176,6 +198,7 @@
         {
             "chainId": 1,
             "address": "0x8dB253a1943DdDf1AF9bcF8706ac9A0Ce939d922",
+            "_scan": "https://etherscan.io/token/0x8dB253a1943DdDf1AF9bcF8706ac9A0Ce939d922",
             "symbol": "UNB",
             "name": "Unbound",
             "decimals": 18,
@@ -184,6 +207,7 @@
         {
             "chainId": 1,
             "address": "0x0C0F2b41F758d66bB8e694693B0f9e6FaE726499",
+            "_scan": "https://etherscan.io/token/0x0C0F2b41F758d66bB8e694693B0f9e6FaE726499",
             "symbol": "UND",
             "name": "Unbound Dollar",
             "decimals": 18,
@@ -192,6 +216,7 @@
         {
             "chainId": 1,
             "address": "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
+            "_scan": "https://etherscan.io/token/0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
             "symbol": "DF",
             "name": "dForce",
             "decimals": 18,
@@ -200,6 +225,7 @@
         {
             "chainId": 1,
             "address": "0x0a5E677a6A24b2F1A2Bf4F3bFfC443231d2fDEc8",
+            "_scan": "https://etherscan.io/token/0x0a5E677a6A24b2F1A2Bf4F3bFfC443231d2fDEc8",
             "symbol": "USX",
             "name": "dForce USD",
             "decimals": 18,
@@ -208,6 +234,7 @@
         {
             "chainId": 1,
             "address": "0xb986F3a2d91d3704Dc974A24FB735dCc5E3C1E70",
+            "_scan": "https://etherscan.io/token/0xb986F3a2d91d3704Dc974A24FB735dCc5E3C1E70",
             "symbol": "EUX",
             "name": "dForce EUR",
             "decimals": 18,
@@ -216,6 +243,7 @@
         {
             "chainId": 1,
             "address": "0x60EF10EDfF6D600cD91caeCA04caED2a2e605Fe5",
+            "_scan": "https://etherscan.io/token/0x60EF10EDfF6D600cD91caeCA04caED2a2e605Fe5",
             "symbol": "MOCHI",
             "name": "Mochi Inu",
             "decimals": 18,
@@ -224,6 +252,7 @@
         {
             "chainId": 1,
             "address": "0x9F52c8ecbEe10e00D9faaAc5Ee9Ba0fF6550F511",
+            "_scan": "https://etherscan.io/token/0x9F52c8ecbEe10e00D9faaAc5Ee9Ba0fF6550F511",
             "symbol": "SIPHER",
             "name": "SIPHER",
             "decimals": 18,
@@ -232,6 +261,7 @@
         {
             "chainId": 1,
             "address": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+            "_scan": "https://etherscan.io/token/0x4d224452801aced8b2f0aebe155379bb5d594381",
             "symbol": "APE",
             "name": "ApeCoin",
             "decimals": 18,
@@ -240,6 +270,7 @@
         {
             "chainId": 1,
             "address": "0xb620be8a1949aa9532e6a3510132864ef9bc3f82",
+            "_scan": "https://etherscan.io/token/0xb620be8a1949aa9532e6a3510132864ef9bc3f82",
             "symbol": "LFT",
             "name": "Lend Flare Dao Token",
             "decimals": 18,
@@ -248,6 +279,7 @@
         {
             "chainId": 1,
             "address": "0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098",
+            "_scan": "https://etherscan.io/token/0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098",
             "symbol": "SAN",
             "name": "Santiment Network Token",
             "decimals": 18,
@@ -256,6 +288,7 @@
         {
             "chainId": 1,
             "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+            "_scan": "https://etherscan.io/token/0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
             "symbol": "wstETH",
             "name": "Wrapped stETH (Lido)",
             "decimals": 18,
@@ -264,6 +297,7 @@
         {
             "chainId": 1,
             "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+            "_scan": "https://etherscan.io/token/0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
             "symbol": "stETH",
             "name": "stETH (Lido)",
             "decimals": 18,
@@ -272,6 +306,7 @@
         {
             "chainId": 1,
             "address": "0xA64c3a85ddc4cD351Eeb7aeceBc6a44A64A76392",
+            "_scan": "https://etherscan.io/token/0xA64c3a85ddc4cD351Eeb7aeceBc6a44A64A76392",
             "symbol": "RICE",
             "name": "Rice Wallet",
             "decimals": 18,
@@ -280,6 +315,7 @@
         {
             "chainId": 1,
             "address": "0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25",
+            "_scan": "https://etherscan.io/token/0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25",
             "symbol": "SLP",
             "name": "Smooth Love Potion",
             "decimals": 0,
@@ -288,6 +324,7 @@
         {
             "chainId": 1,
             "address": "0x9c354503C38481a7A7a51629142963F98eCC12D0",
+            "_scan": "https://etherscan.io/token/0x9c354503C38481a7A7a51629142963F98eCC12D0",
             "symbol": "OGV",
             "name": "Origin Dollar Governance",
             "decimals": 18,
@@ -296,6 +333,7 @@
         {
             "chainId": 1,
             "address": "0xD2af830E8CBdFed6CC11Bab697bB25496ed6FA62",
+            "_scan": "https://etherscan.io/token/0xD2af830E8CBdFed6CC11Bab697bB25496ed6FA62",
             "symbol": "wOUSD",
             "name": "Wrapped OUSD",
             "decimals": 18,
@@ -304,6 +342,7 @@
         {
             "chainId": 1,
             "address": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
+            "_scan": "https://etherscan.io/token/0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
             "symbol": "OUSD",
             "name": "Origin Dollar",
             "decimals": 18,
@@ -312,6 +351,7 @@
         {
             "chainId": 1,
             "address": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
+            "_scan": "https://etherscan.io/token/0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
             "symbol": "OGN",
             "name": "Origin Token",
             "decimals": 18,
