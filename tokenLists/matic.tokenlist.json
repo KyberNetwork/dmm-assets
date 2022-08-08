@@ -1,9 +1,6 @@
 {
     "name": "KyberSwap Token List Polygon",
-    "keywords": [
-        "kyberswap",
-        "dmmexchange"
-    ],
+    "keywords": ["kyberswap", "dmmexchange"],
     "timestamp": "2022-07-27T14:30:00+07:00",
     "logoURI": "https://kyberswap.com/favicon.png",
     "tokens": [
@@ -302,6 +299,54 @@
             "name": "Lido DAO Token (PoS)",
             "symbol": "LDO",
             "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/LDO.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+            "name": "Aave",
+            "symbol": "AAVE",
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png"
+        },
+        {
+            "name": "Balancer",
+            "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+            "symbol": "BAL",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5728.png"
+        },
+        {
+            "name": "ChainLink Token",
+            "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+            "symbol": "LINK",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+        },
+        {
+            "name": "Synthetix Network Token",
+            "address": "0x50B728D8D964fd00C2d0AAD81718b71311feF68a",
+            "symbol": "SNX",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png"
+        },
+        {
+            "name": "Uniswap",
+            "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+            "symbol": "UNI",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+        },
+        {
+            "name": "Wrapped BTC",
+            "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "chainId": 137,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
         }
     ],
     "version": {
