@@ -56,7 +56,7 @@
             "symbol": "DFM",
             "name": "DFM",
             "decimals": 18,
-            "logoURI": "https://mycoldwalletnow.wpcomstaging.com/htdocs/wp-content/mcwhp/img/logo.svg"
+            "logoURI": "https://dfmeco.io/dfmecoHP/images/nav_logo.svg"
         },
         {
             "chainId": 1,
@@ -65,7 +65,7 @@
             "symbol": "BUILD",
             "name": "BUILD Finance",
             "decimals": 18,
-            "logoURI": "https://build.finance/images/logo.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6956.png"
         },
         {
             "chainId": 1,

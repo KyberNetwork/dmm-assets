@@ -1,9 +1,6 @@
 {
     "name": "KyberSwap Token List BTTC",
-    "keywords": [
-        "dmmexchange",
-        "kyberswap"
-    ],
+    "keywords": ["dmmexchange", "kyberswap"],
     "timestamp": "2022-06-20T00:00:00+00:00",
     "logoURI": "https://kyberswap.com/favicon.png",
     "tokens": [

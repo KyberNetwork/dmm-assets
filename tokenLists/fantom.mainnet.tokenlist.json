@@ -1,9 +1,6 @@
 {
     "name": "KyberSwap Token List Fantom",
-    "keywords": [
-        "kyberswap",
-        "dmmexchange"
-    ],
+    "keywords": ["kyberswap", "dmmexchange"],
     "timestamp": "2022-06-20T00:00:00+00:00",
     "logoURI": "https://kyberswap.com/favicon.png",
     "tokens": [
@@ -41,7 +38,7 @@
             "_scan": "https://ftmscan.com/token/0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/BOO.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9608.png"
         },
         {
             "name": "Cover Protocol",
@@ -95,7 +92,7 @@
             "_scan": "https://ftmscan.com/token/0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/GTON.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10006.png"
         },
         {
             "name": "IceToken",
@@ -104,7 +101,7 @@
             "_scan": "https://ftmscan.com/token/0xf16e81dce15B08F326220742020379B855B87DF9",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://zapper.fi/images/ICE-icon.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9073.png"
         },
         {
             "name": "ChainLink",
@@ -167,7 +164,7 @@
             "_scan": "https://ftmscan.com/token/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/coins/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10240.png"
         },
         {
             "name": "yearn.finance",
@@ -185,7 +182,7 @@
             "_scan": "https://ftmscan.com/token/0x09e145A1D53c0045F41aEEf25D8ff982ae74dD56",
             "chainId": 250,
             "decimals": 0,
-            "logoURI": "https://assets.spookyswap.finance/tokens/ZOO.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9007.png"
         },
         {
             "name": "Frax Share",
@@ -203,7 +200,7 @@
             "_scan": "https://ftmscan.com/token/0xbFaf328Fe059c53D936876141f38089df0D1503D",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/MM.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7875.png"
         },
         {
             "name": "Binance Coin",
@@ -221,7 +218,7 @@
             "_scan": "https://ftmscan.com/token/0xD0660cD418a64a1d44E9214ad8e459324D8157f1",
             "chainId": 250,
             "decimals": 12,
-            "logoURI": "https://assets.spookyswap.finance/tokens/WOOFY.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9719.png"
         },
         {
             "name": "Anyswap",
@@ -248,7 +245,7 @@
             "_scan": "https://ftmscan.com/token/0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/TOMB.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11495.png"
         },
         {
             "name": "TSHARE",
@@ -257,7 +254,7 @@
             "_scan": "https://ftmscan.com/token/0x4cdF39285D7Ca8eB3f090fDA0C069ba5F4145B37",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/TSHARE.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16943.png"
         },
         {
             "name": "BOMB",
@@ -266,7 +263,7 @@
             "_scan": "https://ftmscan.com/token/0x8503eb4A136bDBeB323E37Aa6e0FA0C772228378",
             "chainId": 250,
             "decimals": 0,
-            "logoURI": "https://assets.spookyswap.finance/tokens/BOMB.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9085.png"
         },
         {
             "name": "Boo MirrorWorld",
@@ -275,7 +272,7 @@
             "_scan": "https://ftmscan.com/token/0xa48d959AE2E88f1dAA7D5F611E01908106dE7598",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/xBOO.png"
+            "logoURI": "https://ftmscan.com/token/images/xBOO_32.png"
         },
         {
             "name": "Smart Token",
@@ -284,7 +281,7 @@
             "_scan": "https://ftmscan.com/token/0x34D33dc8Ac6f1650D94A7E9A972B47044217600b",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/SMART.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15540.png"
         },
         {
             "name": "aUSD",
@@ -293,7 +290,7 @@
             "_scan": "https://ftmscan.com/token/0x41e3dF7f716aB5AF28c1497B354D79342923196a",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://aquarius.fi/assets/200/AUSD200-t.png"
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/fantom/0x41e3dF7f716aB5AF28c1497B354D79342923196a.png"
         },
         {
             "name": "Fantom USD",
@@ -302,7 +299,7 @@
             "_scan": "https://ftmscan.com/token/0xAd84341756Bf337f5a0164515b1f6F993D194E1f",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/fUSD.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16831.png"
         },
         {
             "name": "Magic Internet Money",
@@ -320,7 +317,7 @@
             "_scan": "https://ftmscan.com/token/0x3A3841f5fa9f2c283EA567d5Aeea3Af022dD2262",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/SHADE.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11504.png"
         },
         {
             "name": "AtariToken",
@@ -338,7 +335,7 @@
             "_scan": "https://ftmscan.com/token/0x627524d78B4fC840C887ffeC90563c7A42b671fD",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/KEK.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8135.png"
         },
         {
             "name": "YEL Token",
@@ -347,7 +344,7 @@
             "_scan": "https://ftmscan.com/token/0xD3b71117E6C1558c1553305b44988cd944e97300",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/YEL.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11301.png"
         },
         {
             "name": "iFUSD",
@@ -355,8 +352,7 @@
             "address": "0x9fC071cE771c7B27b7d9A57C32c0a84c18200F8a",
             "_scan": "https://ftmscan.com/token/0x9fC071cE771c7B27b7d9A57C32c0a84c18200F8a",
             "chainId": 250,
-            "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/iFUSD.png"
+            "decimals": 18
         },
         {
             "name": "Scream",
@@ -365,7 +361,7 @@
             "_scan": "https://ftmscan.com/token/0xe0654C8e6fd4D733349ac7E09f6f23DA256bF475",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/SCREAM.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11497.png"
         },
         {
             "name": "Tarot",
@@ -374,7 +370,7 @@
             "_scan": "https://ftmscan.com/token/0xC5e2B037D30a390e62180970B3aa4E91868764cD",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/TAROT.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11409.png"
         },
         {
             "name": "BABYBOO",
@@ -383,7 +379,7 @@
             "_scan": "https://ftmscan.com/token/0x471762A7017A5B1A3e931F1A97aa03Ef1E7F4A73",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/BABYBOO.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11764.png"
         },
         {
             "name": "Death",
@@ -392,7 +388,7 @@
             "_scan": "https://ftmscan.com/token/0xeaF45B62d9d0Bdc1D763baF306af5eDD7C0d7e55",
             "chainId": 250,
             "decimals": 9,
-            "logoURI": "https://assets.spookyswap.finance/tokens/DEATH.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11994.png"
         },
         {
             "name": "The Eye of Truth",
@@ -400,8 +396,7 @@
             "address": "0x496e1693A7B162c4f0Cd6a1792679cC48EcbCC8d",
             "_scan": "https://ftmscan.com/token/0x496e1693A7B162c4f0Cd6a1792679cC48EcbCC8d",
             "chainId": 250,
-            "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/EYE.png"
+            "decimals": 18
         },
         {
             "name": "Munny",
@@ -410,7 +405,6 @@
             "_scan": "https://ftmscan.com/token/0x195FE0c899434fB47Cd6c1A09ba9DA56A1Cca12C",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/MUNNY.png",
             "bridgeId": "",
             "nativeChain": ""
         },
@@ -421,7 +415,6 @@
             "_scan": "https://ftmscan.com/token/0x47d0d625638b56084e76b8720475d175d171af9A",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/PENNI.png",
             "bridgeId": "",
             "nativeChain": ""
         },
@@ -431,8 +424,7 @@
             "address": "0xFbc3c04845162F067A0B6F8934383E63899c3524",
             "_scan": "https://ftmscan.com/token/0xFbc3c04845162F067A0B6F8934383E63899c3524",
             "chainId": 250,
-            "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/FOO.png"
+            "decimals": 18
         },
         {
             "name": "SteakToken",
@@ -441,7 +433,7 @@
             "_scan": "https://ftmscan.com/token/0x05848B832E872d9eDd84AC5718D58f21fD9c9649",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/STEAK.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11774.png"
         },
         {
             "name": "Totem Finance",
@@ -450,7 +442,7 @@
             "_scan": "https://ftmscan.com/token/0x31a37aedC0C18AA139e120e1CDC673BbB2063e6f",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/TOTEM.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11684.png"
         },
         {
             "name": "OliveCash Token",
@@ -459,7 +451,7 @@
             "_scan": "https://ftmscan.com/token/0xA9937092c4E2B0277C16802Cc8778D252854688A",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/OLIVE.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10685.png"
         },
         {
             "name": "Syfin",
@@ -468,7 +460,7 @@
             "_scan": "https://ftmscan.com/token/0x1BCF4DC879979C68fA255f731FE8Dcf71970c9bC",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/SYF.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11692.png"
         },
         {
             "name": "FTM1337",
@@ -477,7 +469,7 @@
             "_scan": "https://ftmscan.com/token/0xf43Cc235E686d7BC513F53Fbffb61F760c3a1882",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/ELITE.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13436.png"
         },
         {
             "name": "Fantom Oasis Token",
@@ -486,7 +478,7 @@
             "_scan": "https://ftmscan.com/token/0x9bD0611610A0f5133e4dd1bFdd71C5479Ee77f37",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/FTMO.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11907.png"
         },
         {
             "name": "Wootrade Network",
@@ -495,7 +487,7 @@
             "_scan": "https://ftmscan.com/token/0x6626c47c00F1D87902fc13EECfaC3ed06D5E8D8a",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/WOO.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7501.png"
         },
         {
             "name": "fSWAMP Token",
@@ -504,7 +496,7 @@
             "_scan": "https://ftmscan.com/token/0x23cBC7C95a13071562af2C4Fb1Efa7a284d0543a",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/fSWAMP.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9082.png"
         },
         {
             "name": "Treeb",
@@ -513,7 +505,7 @@
             "_scan": "https://ftmscan.com/token/0xc60D7067dfBc6f2caf30523a064f416A5Af52963",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/TREEB.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12301.png"
         },
         {
             "name": "Morpheus Token",
@@ -522,7 +514,7 @@
             "_scan": "https://ftmscan.com/token/0x0789fF5bA37f72ABC4D561D00648acaDC897b32d",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/MORPH.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11896.png"
         },
         {
             "name": "Iron Finance ICE Token",
@@ -530,8 +522,7 @@
             "address": "0x260b3E40c714Ce8196465Ec824Cd8Bb915081812",
             "_scan": "https://ftmscan.com/token/0x260b3E40c714Ce8196465Ec824Cd8Bb915081812",
             "chainId": 250,
-            "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/IronICE.png"
+            "decimals": 18
         },
         {
             "name": "Timechain Swap Token",
@@ -540,7 +531,7 @@
             "_scan": "https://ftmscan.com/token/0xFbfAE0DD49882e503982f8eb4b8B1e464ecA0b91",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/TCS.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12463.png"
         },
         {
             "name": "FANG Token",
@@ -549,7 +540,7 @@
             "_scan": "https://ftmscan.com/token/0x49894fCC07233957c35462cfC3418Ef0CC26129f",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/FANG.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12671.png"
         },
         {
             "name": "Liquid Driver",
@@ -558,7 +549,7 @@
             "_scan": "https://ftmscan.com/token/0x10b620b2dbAC4Faa7D7FFD71Da486f5D44cd86f9",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/LQDR.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13246.png"
         },
         {
             "name": "Geist.Finance Protocol Token",
@@ -567,7 +558,7 @@
             "_scan": "https://ftmscan.com/token/0xd8321AA83Fb0a4ECd6348D4577431310A6E0814d",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/GEIST.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12576.png"
         },
         {
             "name": "Cougar Token",
@@ -576,7 +567,7 @@
             "_scan": "https://ftmscan.com/token/0x5a2e451Fb1b46FDE7718315661013ae1aE68e28C",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/CGS.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13106.png"
         },
         {
             "name": "Sing Token",
@@ -584,8 +575,7 @@
             "address": "0x53D831e1db0947c74e8a52618f662209ec5dE0cE",
             "_scan": "https://ftmscan.com/token/0x53D831e1db0947c74e8a52618f662209ec5dE0cE",
             "chainId": 250,
-            "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/SING.png"
+            "decimals": 18
         },
         {
             "name": "Spell Token",
@@ -594,7 +584,7 @@
             "_scan": "https://ftmscan.com/token/0x468003B688943977e6130F4F68F23aad939a1040",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/SPELL.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11289.png"
         },
         {
             "name": "CoffinDollar",
@@ -603,7 +593,7 @@
             "_scan": "https://ftmscan.com/token/0x0DeF844ED26409C5C46dda124ec28fb064D90D27",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/CoUSD.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12766.png"
         },
         {
             "name": "CoffinToken",
@@ -612,7 +602,7 @@
             "_scan": "https://ftmscan.com/token/0x593Ab53baFfaF1E821845cf7080428366F030a9c",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/COFFIN.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12765.png"
         },
         {
             "name": "Font",
@@ -621,7 +611,7 @@
             "_scan": "https://ftmscan.com/token/0xbbc4A8d076F4B1888fec42581B6fc58d242CF2D5",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/FONT.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8601.png"
         },
         {
             "name": "CyberFi Token",
@@ -630,7 +620,7 @@
             "_scan": "https://ftmscan.com/token/0x6a545f9c64d8f7B957D8D2e6410B52095A9E6c29",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/CFi.png",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7699.png",
             "bridgeId": "cfiv3",
             "nativeChain": 1
         },
@@ -641,7 +631,7 @@
             "_scan": "https://ftmscan.com/token/0x90E892FED501ae00596448aECF998C88816e5C0F",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/DMD.png",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12675.png",
             "bridgeId": ""
         },
         {
@@ -651,7 +641,7 @@
             "_scan": "https://ftmscan.com/token/0x4D9361A86D038C8adA3db2457608e2275B3E08d4",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/MESO.png",
+            "logoURI": "https://ftmscan.com/token/images/mesofinance_32.png",
             "bridgeId": ""
         },
         {
@@ -661,7 +651,7 @@
             "_scan": "https://ftmscan.com/token/0x3129662808bEC728a27Ab6a6b9AFd3cBacA8A43c",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/DOLA.png",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19191.png",
             "bridgeId": "dolav5",
             "nativeChain": 1
         },
@@ -672,7 +662,6 @@
             "_scan": "https://ftmscan.com/token/0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/INV.png",
             "bridgeId": "invv5",
             "nativeChain": 1
         },
@@ -683,7 +672,7 @@
             "_scan": "https://ftmscan.com/token/0x477a9D5dF9bedA06F6b021136a2efe7BE242fCC9",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/TRAVA.png",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11209.png",
             "bridgeId": ""
         },
         {
@@ -693,7 +682,7 @@
             "_scan": "https://ftmscan.com/token/0x8F9bCCB6Dd999148Da1808aC290F2274b13D7994",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/SUMMIT.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13123.png"
         },
         {
             "name": "Yoshi.exchange",
@@ -702,7 +691,7 @@
             "_scan": "https://ftmscan.com/token/0x3dc57B391262e3aAe37a08D91241f9bA9d58b570",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/YOSHI.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13118.png"
         },
         {
             "name": "Fantom Doge",
@@ -711,7 +700,7 @@
             "_scan": "https://ftmscan.com/token/0x1D43697D67cB5D0436cc38d583Ca473a1bFEbC7a",
             "chainId": 250,
             "decimals": 9,
-            "logoURI": "https://assets.spookyswap.finance/tokens/RIP.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11787.png"
         },
         {
             "name": "Metti Inu",
@@ -720,7 +709,7 @@
             "_scan": "https://ftmscan.com/token/0x42aE8468A1FDDB965d420BD71368a87Ec3a2B4b8",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/Metti.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13430.png"
         },
         {
             "name": "ScareCrow",
@@ -729,7 +718,7 @@
             "_scan": "https://ftmscan.com/token/0x46e1Ee17f51c52661D04238F1700C547dE3B84A1",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/SCARE.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12827.png"
         },
         {
             "name": "Exodia",
@@ -738,7 +727,7 @@
             "_scan": "https://ftmscan.com/token/0x3b57f3FeAaF1e8254ec680275Ee6E7727C7413c7",
             "chainId": 250,
             "decimals": 9,
-            "logoURI": "https://assets.spookyswap.finance/tokens/EXOD.png"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13642.png"
         },
         {
             "name": "FantomStarter",
@@ -747,7 +736,7 @@
             "_scan": "https://ftmscan.com/token/0xC758295Cd1A564cdb020a78a681a838CF8e0627D",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/FS.png",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13237.png",
             "bridgeId": ""
         },
         {
@@ -757,7 +746,7 @@
             "_scan": "https://ftmscan.com/token/0xD3c325848D7c6E29b574Cb0789998b2ff901f17E",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/1ART.png",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12929.png",
             "bridgeId": ""
         },
         {
@@ -767,7 +756,7 @@
             "_scan": "https://ftmscan.com/token/0x37F70aa9fEfc8971117BD53A1Ddc2372aa7Eec41",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/BOUJE.png",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13522.png",
             "bridgeId": ""
         },
         {
@@ -777,7 +766,7 @@
             "_scan": "https://ftmscan.com/token/0x5d5530eb3147152FE78d5C4bFEeDe054c8d1442A",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/FEED.png",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14257.png",
             "bridgeId": ""
         },
         {
@@ -787,7 +776,7 @@
             "_scan": "https://ftmscan.com/token/0xEFF6FcfBc2383857Dd66ddf57effFC00d58b7d9D",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/JulD.png",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8164.png",
             "bridgeId": ""
         },
         {
@@ -797,7 +786,7 @@
             "_scan": "https://ftmscan.com/token/0x5C4FDfc5233f935f20D2aDbA572F770c2E377Ab0",
             "chainId": 250,
             "decimals": 9,
-            "logoURI": "https://assets.spookyswap.finance/tokens/HEC.png",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13881.png",
             "bridgeId": ""
         },
         {
@@ -807,7 +796,7 @@
             "_scan": "https://ftmscan.com/token/0x5602df4A94eB6C680190ACCFA2A475621E0ddBdc",
             "chainId": 250,
             "decimals": 9,
-            "logoURI": "https://assets.spookyswap.finance/tokens/SPA.png",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13748.png",
             "bridgeId": ""
         },
         {
@@ -817,7 +806,6 @@
             "_scan": "https://ftmscan.com/token/0x9F47F313ACFd4bdC52F4373b493EaE7d5aC5b765",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/JOE.png",
             "bridgeId": ""
         },
         {
@@ -827,7 +815,7 @@
             "_scan": "https://ftmscan.com/token/0xfa1FBb8Ef55A4855E5688C0eE13aC3f202486286",
             "chainId": 250,
             "decimals": 9,
-            "logoURI": "https://assets.spookyswap.finance/tokens/FHM.png",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14063.png",
             "bridgeId": ""
         },
         {
@@ -837,7 +825,7 @@
             "_scan": "https://ftmscan.com/token/0xe2fb177009FF39F52C0134E8007FA0e4BaAcBd07",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/SOUL.png",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13342.png",
             "bridgeId": ""
         },
         {
@@ -847,7 +835,7 @@
             "_scan": "https://ftmscan.com/token/0x9879aBDea01a879644185341F7aF7d8343556B7a",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/TUSD.png",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2563.png",
             "bridgeId": ""
         },
         {
@@ -857,7 +845,7 @@
             "_scan": "https://ftmscan.com/token/0x6496994241804D7fE2b032901931e03bCD82301F",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/MODA.png",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15747.png",
             "bridgeId": ""
         },
         {
@@ -867,7 +855,7 @@
             "_scan": "https://ftmscan.com/token/0x175cbf2809acFD7521fDd387d65aac523Fe4076F",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://assets.spookyswap.finance/tokens/RAVEN.png",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14919.png",
             "bridgeId": ""
         },
         {
