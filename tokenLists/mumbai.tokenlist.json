@@ -1,9 +1,6 @@
 {
     "name": "KyberSwap Token List Mumbai",
-    "keywords": [
-        "kyberswap",
-        "dmmexchange"
-    ],
+    "keywords": ["kyberswap", "dmmexchange"],
     "timestamp": "2022-06-20T00:00:00+00:00",
     "logoURI": "https://kyberswap.com/favicon.png",
     "tokens": [
@@ -87,6 +84,22 @@
             "name": "Jarvis Synthetic Swiss Franc",
             "decimals": 18,
             "logoURI": "https://i.imgur.com/Fp31dDB.png"
+        },
+        {
+            "name": "Wrapped Ether",
+            "address": "0xA6FA4fB5f76172d178d61B04b0ecd319C5d1C0aa",
+            "symbol": "WETH",
+            "decimals": 18,
+            "chainId": 80001,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        },
+        {
+            "name": "Wrapped Matic",
+            "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
+            "symbol": "WMATIC",
+            "decimals": 18,
+            "chainId": 80001,
+            "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912"
         }
     ],
     "version": {
