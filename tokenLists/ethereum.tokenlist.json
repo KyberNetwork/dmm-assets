@@ -360,7 +360,7 @@
             "name": "Aave",
             "symbol": "AAVE",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png"
         },
         {
             "chainId": 1,
@@ -368,7 +368,7 @@
             "name": "Amp",
             "symbol": "AMP",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/12409/thumb/amp-200x200.png?1599625397"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6945.png"
         },
         {
             "name": "Balancer",
@@ -384,7 +384,7 @@
             "name": "Band Protocol",
             "symbol": "BAND",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/9545/thumb/band-protocol.png?1568730326"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4679.png"
         },
         {
             "name": "Bancor Network Token",
@@ -416,7 +416,7 @@
             "name": "Civic",
             "symbol": "CVC",
             "decimals": 8,
-            "logoURI": "https://assets.coingecko.com/coins/images/788/thumb/civic.png?1547034556"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1816.png"
         },
         {
             "name": "Dai Stablecoin",
@@ -432,7 +432,7 @@
             "name": "district0x",
             "symbol": "DNT",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/849/thumb/district0x.png?1547223762"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1856.png"
         },
         {
             "chainId": 1,
@@ -440,7 +440,7 @@
             "name": "Ethereum Name Service",
             "symbol": "ENS",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/19785/thumb/acatxTm8_400x400.jpg?1635850140"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13855.png"
         },
         {
             "name": "Gnosis Token",
@@ -456,7 +456,7 @@
             "name": "The Graph",
             "symbol": "GRT",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/13397/thumb/Graph_Token.png?1608145566"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6719.png"
         },
         {
             "chainId": 1,
@@ -464,7 +464,7 @@
             "name": "Keep Network",
             "symbol": "KEEP",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/3373/thumb/IuNzUb5b_400x400.jpg?1589526336"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5566.png"
         },
         {
             "name": "ChainLink Token",
@@ -488,7 +488,7 @@
             "name": "Decentraland",
             "symbol": "MANA",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/878/thumb/decentraland-mana.png?1550108745"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png"
         },
         {
             "chainId": 1,
@@ -496,7 +496,7 @@
             "name": "Polygon",
             "symbol": "MATIC",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
         },
         {
             "name": "Maker",
@@ -528,7 +528,7 @@
             "name": "NuCypher",
             "symbol": "NU",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/3318/thumb/photo1198982838879365035.jpg?1547037916"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4761.png"
         },
         {
             "name": "Orchid",
@@ -576,7 +576,7 @@
             "symbol": "sUSD",
             "decimals": 18,
             "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/5013/thumb/sUSD.png?1616150765"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2927.png"
         },
         {
             "chainId": 1,
@@ -584,7 +584,7 @@
             "name": "tBTC",
             "symbol": "TBTC",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/11224/thumb/tBTC.png?1589620754"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5776.png"
         },
         {
             "name": "UMA Voting Token v1",
@@ -640,7 +640,7 @@
             "name": "yearn finance",
             "symbol": "YFI",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/11849/thumb/yfi-192x192.png?1598325330"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5864.png"
         },
         {
             "name": "0x Protocol Token",
