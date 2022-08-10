@@ -375,6 +375,24 @@
             "name": "GMX",
             "symbol": "GMX",
             "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/GMX.svg"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x111111111111ed1d73f860f57b2798b683f2d325",
+            "_scan": "https://snowtrace.io/token/0x111111111111ed1d73f860f57b2798b683f2d325",
+            "decimals": 18,
+            "name": "YUSD Stablecoin",
+            "symbol": "YUSD",
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/YUSD.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x77777777777d4554c39223c354a05825b2e8faa3",
+            "_scan": "https://snowtrace.io/token/0x77777777777d4554c39223c354a05825b2e8faa3",
+            "decimals": 18,
+            "name": "Yeti Finance",
+            "symbol": "YETI",
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/YETI.png"
         }
     ],
     "version": {

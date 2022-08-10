@@ -1,6 +1,9 @@
 {
     "name": "KyberSwap Token List Polygon",
-    "keywords": ["kyberswap", "dmmexchange"],
+    "keywords": [
+        "kyberswap",
+        "dmmexchange"
+    ],
     "timestamp": "2022-07-27T14:30:00+07:00",
     "logoURI": "https://kyberswap.com/favicon.png",
     "tokens": [
@@ -347,6 +350,15 @@
             "decimals": 8,
             "chainId": 137,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x580a84c73811e1839f75d86d75d88cca0c241ff4",
+            "_scan": "https://polygonscan.com/token/0x580a84c73811e1839f75d86d75d88cca0c241ff4",
+            "name": "Qi Dao",
+            "symbol": "QI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/QI.svg"
         }
     ],
     "version": {
