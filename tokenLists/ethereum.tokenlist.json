@@ -1,6 +1,9 @@
 {
     "name": "KyberSwap Token List Ethereum",
-    "keywords": ["kyberswap", "dmmexchange"],
+    "keywords": [
+        "kyberswap",
+        "dmmexchange"
+    ],
     "timestamp": "2022-06-20T00:00:00+00:00",
     "logoURI": "https://kyberswap.com/favicon.png",
     "tokens": [
@@ -456,7 +459,7 @@
             "name": "The Graph",
             "symbol": "GRT",
             "decimals": 18,
-            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6719.png"
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/GRT.png"
         },
         {
             "chainId": 1,
@@ -504,7 +507,7 @@
             "symbol": "MKR",
             "decimals": 18,
             "chainId": 1,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/MKR.svg"
         },
         {
             "chainId": 1,
@@ -560,7 +563,7 @@
             "symbol": "SNX",
             "decimals": 18,
             "chainId": 1,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/SNX.svg"
         },
         {
             "name": "Storj Token",
@@ -648,7 +651,7 @@
             "symbol": "ZRX",
             "decimals": 18,
             "chainId": 1,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/ZRX.png"
         }
     ],
     "version": {

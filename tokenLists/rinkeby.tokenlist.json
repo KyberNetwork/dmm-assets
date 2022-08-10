@@ -1,6 +1,9 @@
 {
     "name": "KyberSwap Token List Rinkeby",
-    "keywords": ["kyberswap", "dmmexchange"],
+    "keywords": [
+        "kyberswap",
+        "dmmexchange"
+    ],
     "timestamp": "2022-06-20T00:00:00+00:00",
     "logoURI": "https://kyberswap.com/favicon.png",
     "tokens": [
@@ -73,7 +76,7 @@
             "symbol": "MKR",
             "decimals": 18,
             "chainId": 4,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/MKR.svg"
         }
     ],
     "version": {

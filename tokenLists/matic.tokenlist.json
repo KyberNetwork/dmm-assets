@@ -333,7 +333,7 @@
             "symbol": "SNX",
             "decimals": 18,
             "chainId": 137,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/SNX.svg"
         },
         {
             "name": "Uniswap",
@@ -359,6 +359,348 @@
             "symbol": "QI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/QI.svg"
+        },
+        {
+            "chainId": 137,
+            "address": "0xbbba073c31bf03b8acf7c28ef0738decf3695683",
+            "_scan": "https://polygonscan.com/token/0xbbba073c31bf03b8acf7c28ef0738decf3695683",
+            "decimals": 18,
+            "name": "The SandBox",
+            "symbol": "Sand",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/6210.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x013f9c3fac3e2759d7e90aca4f9540f75194a0d7",
+            "_scan": "https://polygonscan.com/token/0x013f9c3fac3e2759d7e90aca4f9540f75194a0d7",
+            "decimals": 18,
+            "name": "Neutrino USD",
+            "symbol": "USDN",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/5068.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x2e1ad108ff1d8c782fcbbb89aad783ac49586756",
+            "_scan": "https://polygonscan.com/token/0x2e1ad108ff1d8c782fcbbb89aad783ac49586756",
+            "decimals": 18,
+            "name": "TrueUSD",
+            "symbol": "TUSD",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/2563.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x5fe2b58c013d7601147dcdd68c143a77499f5531",
+            "_scan": "https://polygonscan.com/token/0x5fe2b58c013d7601147dcdd68c143a77499f5531",
+            "decimals": 18,
+            "name": "The Graph",
+            "symbol": "GRT",
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/GRT.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x3cef98bb43d732e2f285ee605a8158cde967d219",
+            "_scan": "https://polygonscan.com/token/0x3cef98bb43d732e2f285ee605a8158cde967d219",
+            "decimals": 18,
+            "name": "Basic Attention",
+            "symbol": "BAT",
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/BAT.svg"
+        },
+        {
+            "chainId": 137,
+            "address": "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f",
+            "_scan": "https://polygonscan.com/token/0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f",
+            "decimals": 18,
+            "name": "1inch",
+            "symbol": "1INCH",
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/1INCH.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
+            "_scan": "https://polygonscan.com/token/0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
+            "decimals": 18,
+            "name": "Sushi",
+            "symbol": "SUSHI",
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/SUSHI.svg"
+        },
+        {
+            "chainId": 137,
+            "address": "0xB46E0ae620EFd98516f49bb00263317096C114b2",
+            "_scan": "https://polygonscan.com/token/0xB46E0ae620EFd98516f49bb00263317096C114b2",
+            "decimals": 18,
+            "name": "Theta Token",
+            "symbol": "THETA",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/2416.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x6f7C932e7684666C9fd1d44527765433e01fF61d",
+            "_scan": "https://polygonscan.com/token/0x6f7C932e7684666C9fd1d44527765433e01fF61d",
+            "decimals": 18,
+            "name": "Maker",
+            "symbol": "MKR",
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/MKR.svg"
+        },
+        {
+            "chainId": 137,
+            "address": "0x6F3B3286fd86d8b47EC737CEB3D0D354cc657B3e",
+            "_scan": "https://polygonscan.com/token/0x6F3B3286fd86d8b47EC737CEB3D0D354cc657B3e",
+            "decimals": 18,
+            "name": "Paxos Standard",
+            "symbol": "PAX",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/3330.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xFAD65Eb62a97fF5Ed91B23aFD039956aaCa6e93b",
+            "_scan": "https://polygonscan.com/token/0xFAD65Eb62a97fF5Ed91B23aFD039956aaCa6e93b",
+            "decimals": 18,
+            "name": "HuobiToken",
+            "symbol": "HT",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/2502.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xFFA4D863C96e743A2e1513824EA006B8D0353C57",
+            "_scan": "https://polygonscan.com/token/0xFFA4D863C96e743A2e1513824EA006B8D0353C57",
+            "decimals": 18,
+            "name": "Decentralized USD",
+            "symbol": "USDD",
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/USDD.svg"
+        },
+        {
+            "chainId": 137,
+            "address": "0x0621d647cecbFb64b79E44302c1933cB4f27054d",
+            "_scan": "https://polygonscan.com/token/0x0621d647cecbFb64b79E44302c1933cB4f27054d",
+            "decimals": 18,
+            "name": "Amp",
+            "symbol": "AMP",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6945.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xf1938Ce12400f9a761084E7A80d37e732a4dA056",
+            "_scan": "https://polygonscan.com/token/0xf1938Ce12400f9a761084E7A80d37e732a4dA056",
+            "decimals": 18,
+            "name": "chiliZ",
+            "symbol": "CHZ",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/4066.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x553d3D295e0f695B9228246232eDF400ed3560B5",
+            "_scan": "https://polygonscan.com/token/0x553d3D295e0f695B9228246232eDF400ed3560B5",
+            "decimals": 18,
+            "name": "Paxos Gold",
+            "symbol": "PAXG",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/4705.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x84e1670F61347CDaeD56dcc736FB990fBB47ddC1",
+            "_scan": "https://polygonscan.com/token/0x84e1670F61347CDaeD56dcc736FB990fBB47ddC1",
+            "decimals": 18,
+            "name": "LoopringCoin V2",
+            "symbol": "LRC",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/1934.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x7eC26842F195c852Fa843bB9f6D8B583a274a157",
+            "_scan": "https://polygonscan.com/token/0x7eC26842F195c852Fa843bB9f6D8B583a274a157",
+            "decimals": 18,
+            "name": "EnjinCoin",
+            "symbol": "ENJ",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/2130.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x6Bf2eb299E51Fc5DF30Dec81D9445dDe70e3F185",
+            "_scan": "https://polygonscan.com/token/0x6Bf2eb299E51Fc5DF30Dec81D9445dDe70e3F185",
+            "decimals": 6,
+            "name": "Serum",
+            "symbol": "SRM",
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/SRM.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",
+            "_scan": "https://polygonscan.com/token/0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",
+            "decimals": 18,
+            "name": "Wootrade Network",
+            "symbol": "WOO",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/7501.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x0C51f415cF478f8D08c246a6C6Ee180C5dC3A012",
+            "_scan": "https://polygonscan.com/token/0x0C51f415cF478f8D08c246a6C6Ee180C5dC3A012",
+            "decimals": 18,
+            "name": "HoloToken",
+            "symbol": "HOT",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/2682.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x5FFD62D3C3eE2E81C00A7b9079FB248e7dF024A8",
+            "_scan": "https://polygonscan.com/token/0x5FFD62D3C3eE2E81C00A7b9079FB248e7dF024A8",
+            "decimals": 18,
+            "name": "Gnosis",
+            "symbol": "GNO",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/1659.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x41b3966B4FF7b427969ddf5da3627d6AEAE9a48E",
+            "_scan": "https://polygonscan.com/token/0x41b3966B4FF7b427969ddf5da3627d6AEAE9a48E",
+            "decimals": 18,
+            "name": "Nexo",
+            "symbol": "NEXO",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/2694.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x7205705771547cF79201111B4bd8aaF29467b9eC",
+            "_scan": "https://polygonscan.com/token/0x7205705771547cF79201111B4bd8aaF29467b9eC",
+            "decimals": 18,
+            "name": "Rocket Pool",
+            "symbol": "RPL",
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/RPL.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x62414D03084EeB269E18C970a21f45D2967F0170",
+            "_scan": "https://polygonscan.com/token/0x62414D03084EeB269E18C970a21f45D2967F0170",
+            "decimals": 18,
+            "name": "OMG Network",
+            "symbol": "OMG",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/1808.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xcB059C5573646047D6d88dDdb87B745C18161d3b",
+            "_scan": "https://polygonscan.com/token/0xcB059C5573646047D6d88dDdb87B745C18161d3b",
+            "decimals": 18,
+            "name": "Polymath",
+            "symbol": "POLY",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/2496.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x5559Edb74751A0edE9DeA4DC23aeE72cCA6bE3D5",
+            "_scan": "https://polygonscan.com/token/0x5559Edb74751A0edE9DeA4DC23aeE72cCA6bE3D5",
+            "decimals": 18,
+            "name": "ZRX",
+            "symbol": "ZRX",
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/ZRX.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x3962F4A0A0051DccE0be73A7e09cEf5756736712",
+            "_scan": "https://polygonscan.com/token/0x3962F4A0A0051DccE0be73A7e09cEf5756736712",
+            "decimals": 18,
+            "name": "Livepeer Token",
+            "symbol": "LPT",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/3640.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x6aBB753C1893194DE4a83c6e8B4EadFc105Fd5f5",
+            "_scan": "https://polygonscan.com/token/0x6aBB753C1893194DE4a83c6e8B4EadFc105Fd5f5",
+            "decimals": 18,
+            "name": "Swipe",
+            "symbol": "SXP",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/4279.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x0B220b82F3eA3B7F6d9A1D8ab58930C064A2b5Bf",
+            "_scan": "https://polygonscan.com/token/0x0B220b82F3eA3B7F6d9A1D8ab58930C064A2b5Bf",
+            "decimals": 18,
+            "name": "Golem Network Token",
+            "symbol": "GLM",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/1455.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xf8F9efC0db77d8881500bb06FF5D6ABc3070E695",
+            "_scan": "https://polygonscan.com/token/0xf8F9efC0db77d8881500bb06FF5D6ABc3070E695",
+            "decimals": 18,
+            "name": "Synapse",
+            "symbol": "SYN",
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/SYN.svg"
+        },
+        {
+            "chainId": 137,
+            "address": "0x67Ce67ec4fCd4aCa0Fcb738dD080b2a21ff69D75",
+            "_scan": "https://polygonscan.com/token/0x67Ce67ec4fCd4aCa0Fcb738dD080b2a21ff69D75",
+            "decimals": 8,
+            "name": "SwissBorg",
+            "symbol": "CHSB",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/2499.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+            "_scan": "https://polygonscan.com/token/0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+            "decimals": 18,
+            "name": "Balancer",
+            "symbol": "BAL",
+            "logoURI": "https://ethereum-optimism.github.io/logos/BAL.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xE0339c80fFDE91F3e20494Df88d4206D86024cdF",
+            "_scan": "https://polygonscan.com/token/0xE0339c80fFDE91F3e20494Df88d4206D86024cdF",
+            "decimals": 18,
+            "name": "Dogelon",
+            "symbol": "ELON",
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/ELON.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x3066818837c5e6eD6601bd5a91B0762877A6B731",
+            "_scan": "https://polygonscan.com/token/0x3066818837c5e6eD6601bd5a91B0762877A6B731",
+            "decimals": 18,
+            "name": "UMA Voting Token v1",
+            "symbol": "UMA",
+            "logoURI": "https://ethereum-optimism.github.io/logos/UMA.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xC8A94a3d3D2dabC3C1CaffFFDcA6A7543c3e3e65",
+            "_scan": "https://polygonscan.com/token/0xC8A94a3d3D2dabC3C1CaffFFDcA6A7543c3e3e65",
+            "decimals": 2,
+            "name": "Gemini dollar",
+            "symbol": "GUSD",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/3306.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xE3322702BEdaaEd36CdDAb233360B939775ae5f1",
+            "_scan": "https://polygonscan.com/token/0xE3322702BEdaaEd36CdDAb233360B939775ae5f1",
+            "decimals": 18,
+            "name": "Tellor Tributes",
+            "symbol": "TRB",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/4944.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xD07A7FAc2857901E4bEC0D89bBDAe764723AAB86",
+            "_scan": "https://polygonscan.com/token/0xD07A7FAc2857901E4bEC0D89bBDAe764723AAB86",
+            "decimals": 18,
+            "name": "USDK",
+            "symbol": "USDK",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/4064.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xc26D47d5c33aC71AC5CF9F776D63Ba292a4F7842",
+            "_scan": "https://polygonscan.com/token/0xc26D47d5c33aC71AC5CF9F776D63Ba292a4F7842",
+            "decimals": 18,
+            "name": "Bancor",
+            "symbol": "BNT",
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C/logo.png"
         }
     ],
     "version": {

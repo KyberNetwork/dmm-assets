@@ -140,7 +140,7 @@
             "decimals": 18,
             "name": "Graph Token",
             "symbol": "GRT.e",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/GRT/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/GRT.png"
         },
         {
             "chainId": 43114,
@@ -158,7 +158,7 @@
             "decimals": 18,
             "name": "Maker",
             "symbol": "MKR.e",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/MKR/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/MKR.svg"
         },
         {
             "chainId": 43114,
@@ -176,7 +176,7 @@
             "decimals": 18,
             "name": "SushiToken",
             "symbol": "SUSHI.e",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SUSHI/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/SUSHI.svg"
         },
         {
             "chainId": 43114,
@@ -275,7 +275,7 @@
             "decimals": 18,
             "name": "0x Protocol Token",
             "symbol": "ZRX.e",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/ZRX/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/ZRX.png"
         },
         {
             "chainId": 43114,

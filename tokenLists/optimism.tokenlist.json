@@ -14,7 +14,7 @@
             "name": "Synthetix",
             "symbol": "SNX",
             "decimals": 18,
-            "logoURI": "https://ethereum-optimism.github.io/logos/SNX.svg"
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/SNX.svg"
         },
         {
             "chainId": 10,
@@ -302,7 +302,7 @@
             "name": "Maker",
             "symbol": "MKR",
             "decimals": 18,
-            "logoURI": "https://ethereum-optimism.github.io/logos/MKR.png"
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/MKR.svg"
         },
         {
             "chainId": 10,
