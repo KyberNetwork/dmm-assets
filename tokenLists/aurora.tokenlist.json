@@ -142,7 +142,7 @@
             "symbol": "FRAX",
             "name": "Frax",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/frax.svg",
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/FRAX.svg",
             "tags": [
                 "ethereum"
             ]
@@ -154,7 +154,7 @@
             "symbol": "FXS",
             "name": "Frax Share",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/fxs.svg",
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/FXS.svg",
             "tags": [
                 "ethereum"
             ]

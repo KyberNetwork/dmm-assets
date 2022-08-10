@@ -77,7 +77,7 @@
             "decimals": 18,
             "name": "Frax Share",
             "symbol": "FXS",
-            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/FXS.png"
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/img/token/FXS.svg"
         },
         {
             "chainId": 42161,
