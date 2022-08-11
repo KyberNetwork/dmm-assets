@@ -1,9 +1,6 @@
 {
     "name": "KyberSwap Token List Optimism",
-    "keywords": [
-        "dmmexchange",
-        "kyberswap"
-    ],
+    "keywords": ["dmmexchange", "kyberswap"],
     "timestamp": "2022-06-21T00:00:00+00:00",
     "logoURI": "https://kyberswap.com/favicon.png",
     "tokens": [

@@ -1,9 +1,6 @@
 {
     "name": "KyberSwap Token List Cronos",
-    "keywords": [
-        "kyberswap",
-        "dmmexchange"
-    ],
+    "keywords": ["kyberswap", "dmmexchange"],
     "timestamp": "2022-07-27T16:30:00+07:00",
     "logoURI": "https://kyberswap.com/favicon.png",
     "tokens": [
@@ -95,7 +92,7 @@
             "symbol": "CRONA",
             "name": "CronaSwap Token",
             "decimals": 18,
-            "logoURI": "https://app.cronaswap.org/images/tokens/0xadbd1231fb360047525BEdF962581F3eee7b49fe.svg"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14625.png"
         },
         {
             "chainId": 25,

@@ -1,9 +1,6 @@
 {
     "name": "KyberSwap Token List Avax Fuji",
-    "keywords": [
-        "kyberswap",
-        "dmmexchange"
-    ],
+    "keywords": ["kyberswap", "dmmexchange"],
     "timestamp": "2022-06-20T00:00:00+00:00",
     "logoURI": "https://kyberswap.com/favicon.png",
     "tokens": [

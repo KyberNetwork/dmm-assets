@@ -1,9 +1,6 @@
 {
     "name": "KyberSwap Token List Oasis Emerald",
-    "keywords": [
-        "dmmexchange",
-        "kyberswap"
-    ],
+    "keywords": ["dmmexchange", "kyberswap"],
     "timestamp": "2022-06-20T00:00:00+00:00",
     "logoURI": "https://kyberswap.com/favicon.png",
     "tokens": [
@@ -59,7 +56,7 @@
             "symbol": "🌹SWAP",
             "name": "🌹RoseSwap.io",
             "decimals": 18,
-            "logoURI": "https://app.rose.fi/static/media/rose.54bf1c83.svg"
+            "logoURI": "https://app.rose.fi/static/media/rose.54bf1c833f8f489c2e36399cbf1033ed.svg"
         },
         {
             "chainId": 42262,
